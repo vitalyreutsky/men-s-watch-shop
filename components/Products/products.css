@@ -5,6 +5,7 @@
 
   width: 80%;
   margin: var(--spacing-large) auto;
+  margin-top: 70px;
   padding: 0;
 
   max-width: 1200px;
