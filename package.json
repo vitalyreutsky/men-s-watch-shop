@@ -1,5 +1,21 @@
 {
   "dependencies": {
     "gh-pages": "^3.2.3"
+  },
+  "name": "men's-watch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitalyreutsky/men-s-watch-shop.git"
+  },
+  "keywords": [],
+  "author": "Vitaly Reutsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitalyreutsky/men-s-watch-shop/issues"
   }
 }
