@@ -22,7 +22,7 @@ class Shopping {
 
     const html = `
     <div class="shopping-container">
-    <div class="shopping__close" onclick="shoppingPage.handleClear();"></div>
+      <div class="shopping__close" onclick="shoppingPage.handleClear();"></div>
       <table>
          ${htmlCatalog}
 
@@ -31,7 +31,7 @@ class Shopping {
             <td class="shopping-element__price">${summCatalog.toLocaleString()} $</td>
          </tr>
       </table>
-    </div>
+   </div>
     `;
 
     ROOT_SHOPPING.innerHTML = html;
