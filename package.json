@@ -5,8 +5,10 @@
   "name": "men's-watch",
   "version": "1.0.0",
   "main": "index.js",
+  "homepage": "vitalyreutsky.github.io/watch-shop",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d app"
   },
   "repository": {
     "type": "git",
